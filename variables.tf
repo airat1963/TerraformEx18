@@ -65,8 +65,3 @@ variable "private_key_path" {
   description = "Path to the private key file"
 }
 
-# variable "token" {
-#   type        = string
-#   description = "Yandex Cloud OAuth token"
-#   #default="t1.9euelZrJxp2ai43JyMqNlMqZzMmOxu3rnpWaxpuPk5OJm4-Ni8fJx5nOkMvl8_dbCkRI-e89Rmc3_d3z9xs5QUj57z1GZzf9zef1656VmpKZlMnKlM-ampmLyJnLx8bM7_zF656VmpKZlMnKlM-ampmLyJnLx8bM.qOio9AcWtAaNALDZTL4qdo1bPlGp6mILHxNzaQCO_anJ80nN4JISNbwQ0IZ4PzQZG1uoUqV-bUouW0bWG9uHDQ"
-# }
