@@ -11,4 +11,4 @@ service_account_id = "aje75bma51dl9sbr8j67"
 public_key_path = "~/.ssh/id_ed25519.pub"
 private_key_path = "~/.ssh/id_ed25519"
 
-token="***"
+
