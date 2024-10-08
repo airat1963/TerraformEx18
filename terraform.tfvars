@@ -1,0 +1,16 @@
+bucket_name = "otus-bucket-airat1"
+folder_id = "b1g77g5lrul51pldt28m"
+cloud_id = "b1gjkqhfee2fvrk4s12a"
+zone = "ru-central1-b"
+instance_name = "otus-proxy-vm"
+image_id = "fd808e721rc1vt7jkd0o" # Ubuntu 20.04 LTS
+//image_id = "fd80mrhj8fl2oe87o4e1" # Ubuntu 22.04 LTS
+subnet_id = "e2lfb2lidhmsbeelerao"//"e9bsrgg53vqoeekft65f"
+subnet_name = "mlops-network-ru-central1-b"
+service_account_id = "aje75bma51dl9sbr8j67"
+public_key_path = "~/.ssh/id_ed25519.pub"
+private_key_path = "~/.ssh/id_ed25519"
+//token="y0_AgAAAAAeR3RAAAxSDwAAAAEOrTZ_AABH2orPA0tO_Z8q1RPisnsS4sJdRg"
+token="y0_AgAAAAAeR3RAAATuwQAAAADzrJC3b25mYw0pR1SRsfQ7oUomH6GI63I"
+//token="t1.9euelZqMzs7IyJuTl8qcl4mVkJiUlu3rnpWaxpuPk5OJm4-Ni8fJx5nOkMvl8_cUTXpH-e9oWX9N_N3z91R7d0f572hZf038zef1656VmpWNnpKLy5jKzprHmo6Oz5OV7_zF656VmpWNnpKLy5jKzprHmo6Oz5OV.Or9iFcNn1Y-kYPFNRqCF5jErU_AKt3gS_2WAN5DYX2U2T644vOxRv4DM_BRP6U2f8BcXHLKWobQulGgBt5GCAA"
+//token="t1.9euelZqbm46Oy8qbnZCSkJiYm8rGkO3rnpWaxpuPk5OJm4-Ni8fJx5nOkMvl8_d5bjpI-e9rTFoK_d3z9zkdOEj572tMWgr9zef1656VmouTyZ3Gi8nKz5jNnZWPjJ2X7_zF656VmouTyZ3Gi8nKz5jNnZWPjJ2X.dbMseSFRfgfdzge55nOtJu9d1aqDy6ulEwfwo-RghJHeaTJ6Zpej_sAGg9DMkGy7Iib-awQ5GJnmy1xivEpJBA"
