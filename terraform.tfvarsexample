@@ -8,7 +8,7 @@ image_id = "fd808e721rc1vt7jkd0o" # Ubuntu 20.04 LTS
 subnet_id = "e2lfb2lidhmsbeelerao"//"e9bsrgg53vqoeekft65f"
 subnet_name = "mlops-network-ru-central1-b"
 service_account_id = "aje75bma51dl9sbr8j67"
-public_key_path = "~/.ssh/id_ed25519.pub"
-private_key_path = "~/.ssh/id_ed25519"
+public_key_path = "~/.ssh/my_id.pub"
+private_key_path = "~/.ssh/my_id.pub"
 
 
